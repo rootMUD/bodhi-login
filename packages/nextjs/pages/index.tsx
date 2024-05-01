@@ -26,7 +26,7 @@ const ETHSpace: NextPage = () => {
 
         // Now make an API call to authenticate
         const response = await fetch(
-          `https://bodhi-data.deno.dev/bodhi_auth?addr=${account}&asset_id=0&msg=${message}&signature=${signature}`,
+          `https://bodhi-data.deno.dev/bodhi_auth?addr=${account}&msg=${message}&signature=${signature}`,
           {
             method: "GET",
           },
