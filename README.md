@@ -1,7 +1,7 @@
 # 🏗 Bodhi Login
 
 <h4 align="center">
-  <a href="https://smart-contract-explorer.movespace.xyz/"> -[ Lanuch App ]- </a>
+  <a href="https://bodhi-login.rootmud.xyz/"> -[ Lanuch App ]- </a>
 </h4>
 
 🧪 Bodhi Login 是一个基于 Bodhi 进行登录验证的前端实现与后端实现。
@@ -9,7 +9,7 @@
 
 ## Quickstart
 
-如果您想快速体验我们的功能请通过：<a href="https://bodhi.movespace.xyz/">Lanuch App</a>
+如果您想快速体验我们的功能请通过：<a href="https://bodhi-login.rootmud.xyz/">Lanuch App</a>
 
 ## Frontend
 ### Requirements
