@@ -6,6 +6,10 @@
 
 🧪 Bodhi Login 是一个基于 Bodhi 进行登录验证的前端实现与后端实现。
 
+see the backend impl in:
+
+> https://github.com/NonceGeek/bodhi-searcher/tree/main/deno_edge_functions
+
 
 ## Quickstart
 
